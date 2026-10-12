@@ -23,9 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaten332004&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zaten332004&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
