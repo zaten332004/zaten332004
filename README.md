@@ -22,10 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaten332004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zaten332004&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
 ---
 
 ### 🐍 Snake Animation
