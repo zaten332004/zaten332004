@@ -23,7 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaten332004&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaten332004&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
