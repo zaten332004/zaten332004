@@ -18,12 +18,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaten3304&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="zaten3304's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaten3304&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaten332004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="zaten332004's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaten332004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaten3304&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaten332004&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### 🐍 Snake Animation
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaten3304/zaten3304/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/zaten3304/zaten3304/output/github-contribution-grid-snake.svg" alt="Snake animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaten332004/zaten332004/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/zaten332004/zaten332004/output/github-contribution-grid-snake.svg" alt="Snake animation">
   </picture>
 </p>
